@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-3nh21h.salamkita.shop/sitemap.xml
